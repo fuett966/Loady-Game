@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35798411908",
+    "project_id": "loady-game",
+    "storage_bucket": "loady-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35798411908:android:a4aa818d787ee3f05ab0d1",
+        "android_client_info": {
+          "package_name": "com.blankgames.loadygame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaOU-Ydsh1CFpRzQVbaEQgev1fKaKhC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

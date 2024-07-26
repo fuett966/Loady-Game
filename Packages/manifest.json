@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.google.external-dependency-manager": "file:C:/Users/egork/Downloads/com.google.external-dependency-manager-1.2.167.tgz",
     "com.unity.addressables": "1.21.21",
     "com.unity.collab-proxy": "2.4.3",
     "com.unity.feature.development": "1.0.1",

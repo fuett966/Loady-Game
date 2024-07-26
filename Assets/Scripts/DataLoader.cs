@@ -13,8 +13,8 @@ public class DataLoader : MonoBehaviour
     FirebaseStorage firebaseStorage;
     StorageReference storageReference;
 
-    [SerializeField] private string _firebaseStorageUrl;
-    [SerializeField] private string _fileReference;
+    [SerializeField] private string _firebaseStorageUrl = "gs://loady-game.appspot.com";
+    [SerializeField] private string _fileReference = "jazzcat.AgADGAADIyIEBg.512.png";
 
 
     private IEnumerator LoadImage(string MediaUrl)

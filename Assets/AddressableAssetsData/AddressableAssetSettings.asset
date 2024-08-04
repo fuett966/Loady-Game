@@ -46,6 +46,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 8b7750fb4c1eff24b83f1453dfe5a537, type: 2}
   - {fileID: 11400000, guid: 097e6cbe817eae6418ede9f837a18af2, type: 2}
+  - {fileID: 11400000, guid: cebdb06e5eef3394f8627de9148746ec, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -66,7 +67,7 @@ MonoBehaviour:
       - m_Id: 5c9e7deca61c89b458f2373e60c6f45a
         m_Value: ServerData/[BuildTarget]
       - m_Id: e354e9ccc522da8429dd108b997b48f4
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://loady-game.appspot.com
     m_ProfileEntryNames:
     - m_Id: 2a699c8c6e5f88446bfe1c5e4a8c2d9c
       m_Name: BuildTarget

@@ -17,13 +17,23 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 247b0fc4a378c89498faeabc55c85954
   m_SerializeEntries:
-  - m_GUID: 89b0121dbccbcb24ca956065a9b78238
-    m_Address: Assets/Scenes/Game1.unity
+  - m_GUID: bbdb8cb59f49219459b5b39d5830152e
+    m_Address: Assets/Sprites/MegaSuperCat.png
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5001922db03038949af530292fc00e34
-    m_Address: Assets/Scenes/Game2.unity
+  - m_GUID: 438a67d39bd402e40b5f16ca9abd0d4c
+    m_Address: Assets/Prefabs/Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88df47e2a9dfee5488ec0724202bcb18
+    m_Address: Assets/Prefabs/Start.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d406850e05c13243b7cb7938f942b87
+    m_Address: Assets/Prefabs/Finish.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

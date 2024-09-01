@@ -1,1 +1,1 @@
-starting work on the project 23.07.2024 
+Мини игры с различными обьектами, загружаемыми через addressables
